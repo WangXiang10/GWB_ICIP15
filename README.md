@@ -1,4 +1,4 @@
-# Geodesic Weighted Bayesian Model For Salient Object Detection (GWB)
+# Geodesic Weighted Bayesian Model For Salient Object Detection (GWB) v2
 Copyright 2015 Xiang Wang (wangxiang14@mails.tsinghua.edu.cn)
 ## Introduction
 ***
@@ -37,6 +37,7 @@ To apply GWB to your own saliency maps , follow these steps:
 
 ## Acknowledgements
 We use or modify: 
+
 K. van de Sande's code for colorspaces conversion, 
 Wangjiang Zhu's code for calculating geodesic distance
 Yulin Xie's code for calculating probabilities
