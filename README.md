@@ -21,8 +21,11 @@ If you use GWB, please cite the following paper:
 
 ## Demo for GWB
 GWB can be integrated into any existing salient object detection models. 
+
 Run 'demo.m' which using an image as source image and a saliency map as prior distribution, 
+
 this demo will generate a improved saliency map using GWB, and save it in the Result path.
+
 A comparison will also be shown.
 
 
@@ -39,6 +42,9 @@ To apply GWB to your own saliency maps , follow these steps:
 We use or modify: 
 
 K. van de Sande's code for colorspaces conversion, 
+
 Wangjiang Zhu's code for calculating geodesic distance
+
 Yulin Xie's code for calculating probabilities
+
 P. Felzenszwalb's code for graph-based segmentation. 
